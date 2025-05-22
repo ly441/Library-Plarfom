@@ -1,0 +1,4 @@
+from resources.category_resource import CategoryResource
+from resources.book_resource import BookResource
+from resources.member_resource import MemberResource
+
